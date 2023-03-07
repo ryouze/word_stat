@@ -1,0 +1,14 @@
+# Directory containing compiled .o binaries
+/build
+
+# Wildcard for compiled binaries (just in case)
+*.out
+
+# Final output binary
+/word_stat
+
+# Untracked, used for testing if misc stuff works
+test.*
+
+# Other
+/todo.txt
